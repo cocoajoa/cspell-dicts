@@ -267,6 +267,8 @@ importers:
 
   dictionaries/k8s: {}
 
+  dictionaries/ko_KR: {}
+
   dictionaries/kotlin: {}
 
   dictionaries/la: {}

@@ -3,8 +3,9 @@
 targets:
   - name: 'ko-kr'
     sources:
-      - filename: 'src/ko_KR.txt'
-        maxDepth: 1 # This is set to 1 to prevent initial builds from taking too long.
+      - src/Korean.dic
+      - src/additional_words.txt
+      - src/hunspell/index.dic
     format: 'trie3'
     targetDirectory: './dict'
     generateNonStrict: 'true'

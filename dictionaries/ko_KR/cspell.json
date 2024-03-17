@@ -3,9 +3,6 @@
     "files": [
         "**/*.{md,txt}"
     ],
-    "dictionaries": [
-        "ko-kr"
-    ],
     "import": [
         "./cspell-ext.json"
     ]

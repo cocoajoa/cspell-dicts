@@ -1,2 +1,0 @@
-a418f357ea0cb7ebbeba53c3e2ceffffd34a7c68  dict/ko-kr.trie
-771d20fd294e51d1289e777f5123b0b03e7071ad  src/ko_KR.txt
